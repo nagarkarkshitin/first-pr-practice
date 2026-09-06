@@ -1,6 +1,6 @@
 # first-pr-practice
 
-A smal collection of string utility functions, used to practice contributing via pull requests.
+A small collection of string utility functions, used to practice contributing via pull requests.
 
 ## Functions
 
